@@ -17,6 +17,7 @@ El Conversor de Moneda en Java es una aplicación de consola que permite a los u
 
 - Java 11 o superior instalado en tu sistema.
 - Acceso a internet para consultar la API de ExchangeRate-API.
+- Dentro de la carpeta out se encuentra el GSON2.10.1 para ejecutar el poryecto 
 
 
 
